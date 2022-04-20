@@ -1,0 +1,6 @@
+package com.muskan.mymusic
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
